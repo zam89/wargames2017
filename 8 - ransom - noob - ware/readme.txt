@@ -1,0 +1,1 @@
+I am new to coding but I managed to create this super leet awesome ransomware... err... but I don't know to how to decrypt it. Help?
