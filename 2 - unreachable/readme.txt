@@ -1,0 +1,1 @@
+The critical server seems unreachable. The sysadmin tries to identify the cause of it..but weird..he is doing it backwardly.
